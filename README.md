@@ -61,7 +61,7 @@
 - **`directory.html`** — Province-aware public listing browser
 - **`listing-detail.html`** — Full listing detail with interactive GPS map
 
-  Public Site: https://garebear99.github.io/RG-Command-Center/
+  **Public Site:** https://garebear99.github.io/RG-Command-Center/
 
 ### Internal Command Center (SHA-256 Auth)
 
@@ -71,7 +71,7 @@
 - **`add.html`** — Manual listing and lead entry with auto-scoring
 - **`settings.html`** — Data pipeline controls: import, reconcile, compile, audit logs
 
-  Handler: https://github.com/GareBear99/ARC-Core
+  **Handler:** https://github.com/GareBear99/ARC-Core
 
 
 ### GPS Map System
@@ -81,7 +81,7 @@
 - Touch support: pinch-to-zoom, single-finger drag
 - Listing card thumbnails: real map tiles with GPS precision indicators
 
-  GPS: https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine.
+  **GPS:** https://github.com/GareBear99/A-real-time-spatial-signal-intelligence-engine.
 
 
 ### Deal Scoring Engine
